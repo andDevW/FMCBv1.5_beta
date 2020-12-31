@@ -1,2 +1,2 @@
-# FMCBv1.5beta
-Archived v1.5beta FMCB
+# FMCB v1.5 beta
+Archived v1.5 beta FMCB
